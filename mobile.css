@@ -18,8 +18,7 @@
     padding-bottom: 2rem;
   }
   .giant {
-    width: 50%;
-    margin: 0 auto;
+    width: 85%;
   }
 }
 @media (max-width: 450px) {
